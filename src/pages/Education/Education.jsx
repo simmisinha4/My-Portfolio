@@ -19,7 +19,7 @@ const EducationSection = () => {
     school: "St. Michael's High School",
     mascot: "📘",
     year: "2008 - 2018",
-    achievements: ["Percentage: 92.5%", "Board: MP Board"],
+    achievements: ["Percentage: 92.5%", "Board: CBSE Board"],
     skills: ["Mathematics", "Science", "English", "Social Science"],
     description:
       "Built a strong academic foundation with a focus on logical thinking and conceptual clarity across core subjects.",
