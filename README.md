@@ -2,24 +2,7 @@
 Welcome to my Portfolio Website — a modern and clean personal portfolio made using React.js, Vite, and Tailwind CSS.
 It showcases my skills, education, experience, and the projects I’ve worked on. Visitors can also contact me directly through the site.
 
-📁 Project Structure
-bash
-Copy
-Edit
-portfolio/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   │   ├── ui/
-│   │   ├── lib/
-│   ├── pages/
-│   ├── App.jsx
-│   └── main.jsx
-├── package.json
-├── tailwind.config.js
-├── vite.config.js
-└── README.md
+
 ✨ Features
 Fully responsive design
 
